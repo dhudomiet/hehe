@@ -78,6 +78,6 @@ public class Run extends JFrame implements ActionListener {
 			this.getContentPane().add(table);
 			this.update(this.getGraphics());
 		}
-		
+		String af= "adasd";	
 	}
 }
